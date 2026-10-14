@@ -1,0 +1,20 @@
+{
+  "name": "炫炫炫的工作日记",
+  "short_name": "炫炫炫日记",
+  "description": "浅绿色个人工作台：待办、日历倒计时、体能、旅游、观影、账本、心情、目标与密码管理。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "xuan-diary",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF7F0",
+  "theme_color": "#2F8F63",
+  "icons": [
+    { "src": "icons/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
